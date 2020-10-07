@@ -1,4 +1,6 @@
 # Flight Fare Prediction: 
+●	After verifying the various features like type of Airline ,Source ,Destination ,route ,etc. I successfully predicted the flight price between two cities. Performed various regression algorithms & by using Hyperparameter Tuning, got an accuracy of 0.81%.
+●	Created a Flask Framework for the model and successfully did model deployment on Heroku platform. 
 
 ## Table of Content
   * [Demo](#demo)
